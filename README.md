@@ -14,6 +14,8 @@ npm run compile
 npm start
 ```
 
+Start Ganache then import an account to your MetaMask wallet.
+
 ## Scenario
 
 ### Building contracts
